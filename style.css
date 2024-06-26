@@ -642,3 +642,10 @@ p {
   text-align: justify; 
 }
 
+.article-about {
+  border: 2px solid #87CEFA; /* Color azul claro */
+  border-radius: 15px; /* Bordes redondeados */
+  background-color: #B0C4DE;; /* Fondo azul claro */
+  padding: 20px; /* Espaciado interno */
+  margin: 20px; /* Espaciado externo */
+}
