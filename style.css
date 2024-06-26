@@ -643,9 +643,11 @@ p {
 }
 
 .article-about {
-  border: 2px solid #87CEFA; /* Color azul claro */
-  border-radius: 15px; /* Bordes redondeados */
-  background-color: #B0C4DE;; /* Fondo azul claro */
-  padding: 20px; /* Espaciado interno */
-  margin: 20px; /* Espaciado externo */
+  border: 2px solid #87CEFA; 
+  border-radius: 15px; 
+  background-color: #B0C4DE; 
+  padding: 20px; 
+  margin: 20px; 
 }
+
+
